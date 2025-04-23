@@ -1,0 +1,5 @@
+[project]
+name = "open-extract"
+version = "0.1.0"
+description = "Structured Data Extractor for AI Agents. Search your documents or the web for specific data and get it back in JSON or Markdown in a single tool call."
+requires-python = ">=3.10"
