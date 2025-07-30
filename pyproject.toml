@@ -5,3 +5,4 @@ description = "Structured Data Extractor for AI Agents. Search your documents or
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # clarify the control flow
+# guard against empty input
